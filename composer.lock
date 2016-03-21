@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "9c8cad052fab0471177b6d9387f9206a",
-    "content-hash": "dc9ad495bb7509b5c835fd206fc71a0c",
+    "hash": "af7dbde8985781e6da44c132856bf211",
+    "content-hash": "ef87ad16e53d7768f36bf4325395b655",
     "packages": [
         {
             "name": "anahkiasen/underscore-php",
@@ -398,16 +398,16 @@
         },
         {
             "name": "yuloh/neko",
-            "version": "dev-master",
+            "version": "0.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yuloh/neko.git",
-                "reference": "acfbaa0cde6b45e4877f4acf88e92b66f8bfd9a1"
+                "reference": "7c138d723fb78c72860128e91f24949007d2dd61"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yuloh/neko/zipball/acfbaa0cde6b45e4877f4acf88e92b66f8bfd9a1",
-                "reference": "acfbaa0cde6b45e4877f4acf88e92b66f8bfd9a1",
+                "url": "https://api.github.com/repos/yuloh/neko/zipball/7c138d723fb78c72860128e91f24949007d2dd61",
+                "reference": "7c138d723fb78c72860128e91f24949007d2dd61",
                 "shasum": ""
             },
             "require": {
@@ -436,15 +436,13 @@
                 }
             ],
             "description": "Simple helpers for case transformations.",
-            "time": "2016-03-21 04:05:43"
+            "time": "2016-03-21 04:34:38"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "yuloh/neko": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
