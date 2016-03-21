@@ -1,0 +1,21 @@
+{
+    "name": "yuloh/case-tranform-tests",
+    "description": "A test repo for different case tranformation libraries.",
+    "require": {
+        "doctrine/inflector": "^1.1",
+        "illuminate/support": "^5.2",
+        "danielstjules/stringy": "^2.3",
+        "anahkiasen/underscore-php": "^2.0",
+        "yuloh/neko": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matt Allan",
+            "email": "matthew.james.allan@gmail.com"
+        }
+    ],
+    "autoload-dev":{
+        "classmap": ["tests"]
+    }
+}
