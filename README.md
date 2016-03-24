@@ -35,7 +35,7 @@ You can view the basic test [here](tests/CaseTestCase.php).
 
 These are the results as output by phpunit in testdox format.  You can run them yourself by executing `phpunit --testdox`.  `[x]` means the test passed. `[ ]` means the test failed or it was skipped because it isn't supported.
 
-**note:** doctrine/inflector and anahkiasen/underscore-php don't support kebab-case, so those tests are skipped.
+**note:** doctrine/inflector and anahkiasen/underscore-php don't have a to kebab-case method, so those tests are skipped.
 
 **disclaimer:** I wrote neko.
 
