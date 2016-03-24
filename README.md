@@ -1,8 +1,8 @@
 # Case Tranform Tests
 
-This repo is a test suite to compare different case transformation libraries for PHP.
+This repo is a test suite to compare different case transformation libraries for PHP.  I wrote this because none of the case transform functions I used ever worked like I expected.
 
-Each library is tested on it's ability to transform one format to another.  Only libraries that can transform without knowing the input format are tested.
+Each library is tested on it's ability to transform one format to another.  Only libraries that can transform without knowing the input format are tested.  Feel free to open a pull request or issue to add additional libraries.
 
 You can view the basic test [here](tests/CaseTestCase.php).
 
