@@ -37,7 +37,9 @@ These are the results as output by phpunit in testdox format.  You can run them 
 
 **note:** doctrine/inflector and anahkiasen/underscore-php don't support kebab-case, so those tests are skipped.
 
-## doctrine/inflector
+**disclaimer:** I wrote neko.
+
+## [doctrine/inflector](https://github.com/doctrine/inflector)
 ```
  [ ] Snake case from title case
  [ ] Snake case from lower case
@@ -69,7 +71,7 @@ These are the results as output by phpunit in testdox format.  You can run them 
  [ ] Camel case from screaming snake case
 ```
 
-## illuminate/support
+## [illuminate/support](https://github.com/illuminate/support)
 ```
  [x] Snake case from title case
  [ ] Snake case from lower case
@@ -101,7 +103,7 @@ These are the results as output by phpunit in testdox format.  You can run them 
  [ ] Camel case from screaming snake case
 ```
 
-## yuloh/neko
+## [yuloh/neko](https://github.com/yuloh/neko)
 ```
  [x] Snake case from title case
  [x] Snake case from lower case
@@ -133,7 +135,7 @@ These are the results as output by phpunit in testdox format.  You can run them 
  [x] Camel case from screaming snake case
 ```
 
-## danielstjules/stringy
+## [danielstjules/Stringy](https://github.com/danielstjules/Stringy)
 ```
  [x] Snake case from title case
  [x] Snake case from lower case
@@ -165,7 +167,7 @@ These are the results as output by phpunit in testdox format.  You can run them 
  [ ] Camel case from screaming snake case
 ```
 
-## anahkiasen/underscore-php
+## [anahkiasen/underscore-php](https://github.com/Anahkiasen/underscore-php)
 ```
  [ ] Snake case from title case
  [ ] Snake case from lower case
