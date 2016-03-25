@@ -200,6 +200,7 @@ These are the results as output by phpunit in testdox format.  You can run them 
  [ ] Camel case from screaming snake case
  ```
 ## [icanboogie/inflector](https://github.com/ICanBoogie/Inflector)
+```
  [ ] Snake case from title case
  [ ] Snake case from lower case
  [x] Snake case from pascal case
@@ -228,3 +229,4 @@ These are the results as output by phpunit in testdox format.  You can run them 
  [x] Camel case from kebab case
  [x] Camel case from snake case
  [ ] Camel case from screaming snake case
+```
