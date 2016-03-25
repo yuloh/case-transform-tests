@@ -13,6 +13,7 @@ You can view the basic test [here](tests/CaseTestCase.php).
 - [danielstjules/Stringy](https://github.com/danielstjules/Stringy)
 - [anahkiasen/underscore-php](https://github.com/Anahkiasen/underscore-php)
 - [yuloh/neko](https://github.com/yuloh/neko)
+- [icanboogie/inflector](https://github.com/ICanBoogie/Inflector)
 
 ## The Input Formats
 
@@ -198,3 +199,32 @@ These are the results as output by phpunit in testdox format.  You can run them 
  [x] Camel case from snake case
  [ ] Camel case from screaming snake case
  ```
+## [icanboogie/inflector](https://github.com/ICanBoogie/Inflector)
+ [ ] Snake case from title case
+ [ ] Snake case from lower case
+ [x] Snake case from pascal case
+ [x] Snake case from camel case
+ [x] Snake case from kebab case
+ [x] Snake case from snake case
+ [x] Snake case from screaming snake case
+ [ ] Kebab case from title case
+ [ ] Kebab case from lower case
+ [x] Kebab case from pascal case
+ [x] Kebab case from camel case
+ [x] Kebab case from kebab case
+ [x] Kebab case from snake case
+ [x] Kebab case from screaming snake case
+ [ ] Pascal case from title case
+ [ ] Pascal case from lower case
+ [x] Pascal case from pascal case
+ [x] Pascal case from camel case
+ [x] Pascal case from kebab case
+ [x] Pascal case from snake case
+ [ ] Pascal case from screaming snake case
+ [ ] Camel case from title case
+ [ ] Camel case from lower case
+ [x] Camel case from pascal case
+ [x] Camel case from camel case
+ [x] Camel case from kebab case
+ [x] Camel case from snake case
+ [ ] Camel case from screaming snake case
